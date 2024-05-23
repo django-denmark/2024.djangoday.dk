@@ -44,7 +44,7 @@ theme = "djangoday"
   url = "/tickets/"
   weight = 2
   [[menu.nav]]
-  name = "Submit talk"
+  name = "Submit·a·talk"
   url = "/cfp/"
   weight = 3
 
