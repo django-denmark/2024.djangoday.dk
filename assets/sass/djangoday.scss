@@ -98,7 +98,7 @@ h1
       text-decoration: underline;
     }
     .emojis {
-      background-color: $success;
+      background-color: $primary;
       border-radius: 5px;
       display: inline-block;
       padding: 4px;
@@ -178,11 +178,11 @@ ul.sponsors {
 
 .djangoday-logo
 {
-    background-color: #d8e4ff;
+    background-color: #ff547e;
     .djangoday-logo-link img {
         transform: rotate(-2deg);
         width: 300px;
-        margin-top: -10px;
+        margin-top: 10px;
         margin-right: -20px;
         float: right;
         display: block;

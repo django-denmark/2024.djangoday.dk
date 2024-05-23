@@ -1,7 +1,7 @@
 ---
-title: "Welcome - Django Day Copenhagen 2023"
-date: "2022-12-27"
-description: "Djangonauts from in and around Denmark are meeting up for the second edition of Django Day Copenhagen 2023, October 6"
+title: "Welcome - Django Day Copenhagen 2024"
+date: "2023-12-27"
+description: "Djangonauts from in and around Denmark are meeting up for the second edition of Django Day Copenhagen 2024, October 4"
 draft: false
 
 ---

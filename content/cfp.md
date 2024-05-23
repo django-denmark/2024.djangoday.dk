@@ -3,9 +3,7 @@ title: "Call for Proposals"
 date: "2023-01-14"
 ---
 
-**The following Call for Proposals closed on August 31st.**
-
-Djangonauts from in and around Denmark are meeting up for the third edition of Django Day, to be held on October 6th 2023.
+Djangonauts from in and around Denmark are meeting up for the third edition of Django Day, to be held on Friday October 4th 2024.
 It will be a full day of talks, followed by an evening of social events.
 
 Come and meet your local and excellent community and share with them.
@@ -43,8 +41,6 @@ We are looking for:
 
 
 ## Deadline 🔥
-
-**We'll announce a new deadline soon**
 
 Submit before **August 31st 2023 23:59:59 UTC+2**.
 The final program will be announced on September 1st.
