@@ -1,6 +1,6 @@
-baseURL = "https://2023.djangoday.dk"
+baseURL = "https://2024.djangoday.dk"
 languageCode = "en-us"
-title = "Django Day Copenhagen 2023"
+title = "Django Day Copenhagen 2024"
 theme = "djangoday"
 
 [taxonomies]
@@ -10,7 +10,7 @@ theme = "djangoday"
   post = "/:filename/"
 
 [params]
-  description = "Djangonauts from in and around Denmark are meeting up for the third edition of Django Day Copenhagen, date TBA"
+  description = "Djangonauts from in and around Denmark are meeting up for the third edition of Django Day Copenhagen, October 4th, 2024"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
@@ -44,7 +44,7 @@ theme = "djangoday"
   url = "/tickets/"
   weight = 2
   [[menu.nav]]
-  name = "Contribution"
+  name = "Submit talk"
   url = "/cfp/"
   weight = 3
 

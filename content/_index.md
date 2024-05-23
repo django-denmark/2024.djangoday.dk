@@ -21,10 +21,10 @@ Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
 
 
-##### 2024-04-26: Getting ready for another Django Day Copenhagen ✨️
+##### 2024-05-23: Getting ready for another Django Day Copenhagen ✨️
 
-All videos are uploaded and each can be viewed by clicking a talk in the [program below ⤵️](#program).
-
+We've finally launched the website! We're eager to make this another great day,
+and we would **love your help**. You can for instance [submit a talk](/cfp/), [help us out with the organizing](mailto:info@django-denmark.org), encourage others to submit talks, or convince your employer to get a corporate supporter ticket.
 
 <div style="clear: both"></div>
 
