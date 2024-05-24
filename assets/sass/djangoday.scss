@@ -90,6 +90,7 @@ h1
     font-size: 20px;
     font-weight: bold;
     font-family: $font-family-monospace;
+    text-shadow: 0px 0px 2px white;
     a {
       color: #000;
     }
@@ -97,11 +98,11 @@ h1
       color: #000;
       text-decoration: underline;
     }
-    .emojis {
-      background-color: $primary;
-      border-radius: 5px;
+    .tagline {
       display: inline-block;
-      padding: 4px;
+      padding: 0;
+      font-style: italic;
+      font-size: 12pt;
     }
 }
 
@@ -317,7 +318,7 @@ body.some {
     .main-update {
         font-size: 32px;
     }
-    .main-update .emojis {
+    .main-update .tagline {
         display: none;
     }
     .pre-footer-illustration {
