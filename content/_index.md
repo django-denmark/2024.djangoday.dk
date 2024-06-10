@@ -10,7 +10,7 @@ draft: false
 
 * [Venue: Union, Copenhagen](/venue/) <span class="badge badge-pill badge-success">BOOKED</span>
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-secondary">NOT OPENED YET</span>
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span>
 * Looking for Django Day 2023 videos? [Find them here](https://2023.djangoday.dk/#program) ⏯️
 
 Djangonauts from in and around Denmark are meeting up for the fourth edition of
@@ -21,7 +21,12 @@ Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
 
 
-##### 2024-05-23: Getting ready for another Django Day Copenhagen ✨️
+##### 📣️ 2024-06-10: Ticket sales open
+
+Venue tickets can now be found! Both Corporate Support and Individual tickets are available. The latter has a time-limited early bird offer 🏃️.
+
+
+##### 📣️ 2024-05-23: Getting ready for another Django Day Copenhagen
 
 We've finally launched the website! We're eager to make this another great day,
 and we would **love your help**. You can for instance [submit a talk](/cfp/), [help us out with the organizing](mailto:info@django-denmark.org), encourage others to submit talks, or convince your employer to get a corporate supporter ticket.
