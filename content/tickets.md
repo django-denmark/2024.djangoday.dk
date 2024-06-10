@@ -8,9 +8,9 @@ draft: false
 ## Ticket Deadlines 🔥
 
 * Streaming tickets: No deadline
-* Early bird: Friday September 1 23:59 UTC+2 <span class="badge badge-pill badge-success">OPEN</span>
-* Venue tickets: Friday September 27 23:59 UTC+2 <span class="badge badge-pill badge-success">OPEN</span>
-<!--* Late Bird: Wednesday October 1 23:59 UTC+2 <span class="badge badge-pill badge-success">CLOSED</span>-->
+* Early bird: September 1 23:59 UTC+2 <span class="badge badge-pill badge-success">OPEN</span>
+* Venue tickets: September 27 23:59 UTC+2 <span class="badge badge-pill badge-success">OPEN</span>
+<!--* Late Bird: October 1 23:59 UTC+2 <span class="badge badge-pill badge-success">CLOSED</span>-->
 
 Notice that the event can sell out due to the size of the venue.
 
