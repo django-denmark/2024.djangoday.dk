@@ -42,7 +42,7 @@ We are looking for:
 
 ## Deadline 🔥
 
-Submit before **August 31st 2023 23:59:59 UTC+2**.
+Submit before **August 31st 2024 23:59:59 UTC+2**.
 The final program will be announced on September 1st.
 
 
