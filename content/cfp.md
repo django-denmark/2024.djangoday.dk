@@ -18,6 +18,7 @@ please don’t hesitate to write cfp@django-denmark.org.
 
 ## Dear new speakers 💛️
 
+* Django Day Copenhagen is made for new speakers, it's part of the event's purpose.
 * Is English not your first language? Neither is it ours/our's/ours'! Mistakes are most welcome!
 * Want to practice or have inputs for your talk? We are here to help.
 * Should my idea be unique/novel/advanced? No, that's not a requirement: There are many subjects that can be presented in a new way. If you find your talk important, so may others.
