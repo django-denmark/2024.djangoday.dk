@@ -12,10 +12,16 @@ Tell us about your idea and your contribution to make this a great day.
 The event will accommodate 50-100 people physically and be streamed live and recorded for additionally larger audiences.
 The program will accommodate talks that are at different levels and a wide variety.
 
+## Dear first-time speaker 💛️
+
 **First time doing a talk? We want you to submit!**
 It is very understandable and encouraged to ask questions when preparing your talk,
 please don’t hesitate to write cfp@django-denmark.org.
 
+* Django Day Copenhagen is made for first-time speakers, it's part of the event's purpose.
+* Is English not your first language? Neither is it ours/our's/ours'! Mistakes are most welcome!
+* Want to practice or have inputs for your talk? We are here to help.
+* Should my idea be unique/novel/advanced? No, that's not a requirement: There are many subjects that can be presented in a new way. If you find your talk important, so may others.
 
 ## Formats 🌈
 
