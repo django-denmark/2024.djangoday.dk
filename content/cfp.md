@@ -12,7 +12,7 @@ Tell us about your idea and your contribution to make this a great day.
 The event will accommodate 50-100 people physically and be streamed live and recorded for additionally larger audiences.
 The program will accommodate talks that are at different levels and a wide variety.
 
-## Dear first-time speaker 💛️
+## Dear first-time speaker 💌️
 
 **First time doing a talk? We want you to submit!**
 It is very understandable and encouraged to ask questions when preparing your talk,
