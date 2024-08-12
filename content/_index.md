@@ -45,6 +45,10 @@ with a round of **lightning talks**, which can be submitted on the day of the ev
 and be drawn during the day.
 
 
+{{< talklist >}}
+
+
+
 
 # Supporters
 
