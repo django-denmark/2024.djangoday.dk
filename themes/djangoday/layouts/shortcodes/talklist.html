@@ -26,7 +26,7 @@
   <img src="{{ $new.Permalink }}" alt="Speaker" class="img-speaker float-right" />
 
   <h2 class="no-link-styling">
-  <span class="talktime">{{ dateFormat "15:04" .Params.talk_date }}</span>
+  <!--<span class="talktime">{{ dateFormat "15:04" .Params.talk_date }}</span>-->
   {{ .Title }}
   </h2>
   </a>
@@ -70,7 +70,7 @@
 {{ if (gt $slots_left 0) }}
   {{- $original := ((site.GetPage "/talks").Resources.GetMatch "pony.png") -}}
   {{- $new := "" -}}
-  {{- $new = $original.Fill "150x150" -}}
+  {{- $new = $original.Fill "200x200" -}}
   <img src="{{ $new.Permalink }}" alt="Speaker" class="img-speaker float-right" />
 
   <h2 class="no-link-styling">

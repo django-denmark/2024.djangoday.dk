@@ -2,7 +2,7 @@
 
 {{- $original := ((site.GetPage "/talks").Resources.GetMatch (printf "*%s*" .Params.img_name)) -}}
 {{- $new := "" -}}
-{{- $new = $original.Fill "150x150 Center" -}}
+{{- $new = $original.Fill "200x200 Center" -}}
 
 <h1>{{ .Title | markdownify }}</h1>
 <img src="{{ $new.Permalink }}" alt="Speaker" class="img-speaker float-right" />
