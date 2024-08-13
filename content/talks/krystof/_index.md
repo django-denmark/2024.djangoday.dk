@@ -7,10 +7,7 @@ img_name: "krystof.jpeg"
 layout: "single"
 remote: false
 stage: true
-# fediverse: "@raffaellasuardini@mastodon.social"
-# fediverse_url: "https://mastodon.social/@raffaellasuardini"
 linked_in: "https://www.linkedin.com/in/krystof-beuermann-623558184/"
-# twitter: "jvzammit"
 description: "Modern Web Apps with (Almost) No JavaScript: Enhancing User Experience with HTMX in Django"
 published: true
 type: "talk"

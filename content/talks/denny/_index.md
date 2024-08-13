@@ -9,7 +9,6 @@ remote: false
 stage: true
 fediverse: "@dennybiasiolli@mastodon.uno"
 fediverse_url: "https://mastodon.uno/@dennybiasiolli"
-# twitter: "jvzammit"
 description: "Django migrations, friend or foe? Optimize them for testing"
 published: true
 type: "talk"

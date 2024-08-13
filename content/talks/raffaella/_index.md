@@ -9,7 +9,6 @@ remote: false
 stage: true
 fediverse: "@raffaellasuardini@mastodon.social"
 fediverse_url: "https://mastodon.social/@raffaellasuardini"
-# twitter: "jvzammit"
 description: "From junior developer to Django contributor: My open source journey"
 published: true
 type: "talk"
