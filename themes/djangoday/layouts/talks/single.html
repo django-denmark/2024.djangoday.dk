@@ -26,6 +26,10 @@ stage 🎤
 <div><a href="https://twitter.com/{{ .Params.twitter }}" target="_blank">🐦 @{{ .Params.twitter }}</a></div>
 {{ end }}
 
+{{ if .Params.linkedin_url }}
+<div><a href="{{ .Params.linkedin_url }}" target="_blank">🧑‍💼 Linkedin Profile</a></div>
+{{ end }}
+
 {{ if .Params.slides }}
 <div><a href="{{ .Params.slides }}" target="_blank">🎞️ View slides</a></div>
 {{ end }}
