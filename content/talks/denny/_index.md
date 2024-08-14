@@ -9,6 +9,7 @@ remote: false
 stage: true
 fediverse: "@dennybiasiolli@mastodon.uno"
 fediverse_url: "https://mastodon.uno/@dennybiasiolli"
+linkedin_url: "https://www.linkedin.com/in/dennybiasiolli/"
 description: "Django migrations, friend or foe? Optimize them for testing"
 published: true
 type: "talk"
