@@ -22,5 +22,8 @@ Learn how to significantly enhance user experience in your Django projects by in
 
 In today’s web development landscape, delivering a seamless user experience often involves using heavy JavaScript frameworks. However, this approach can lead to increased complexity and performance issues. This talk will introduce HTMX, a powerful tool that allows developers to create interactive web applications with minimal client-side code. By integrating HTMX into Django projects, developers can significantly enhance user experience while maintaining simplicity and efficiency.
 
-<!--## About Raffaella-->
+## About Krystof
+
+Hey there! 👋 I'm Krystof Beuermann, a software architect and business designer from the charming city of Münster, Germany. I co-founded [Blackbox Innovation](https://www.blackbox.ms/), where I get to combine my love for technology with my passion for turning ideas into real-world digital solutions. 
+But life isn't all code and tech talk! When I'm not tinkering with new frameworks, you'll probably find me on stage - yes, I'm also an avid improv theater enthusiast.
 
