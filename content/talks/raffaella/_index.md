@@ -23,5 +23,9 @@ Discover how the Djangonaut Space program transformed my professional path from 
 
 During my journey, collaboration and support were the keys to my growth. I aim to encourage others to become new open source contributors and demonstrate how a positive environment can empower individuals to become active members of a community.
 
-<!--## About Raffaella-->
 
+## About Raffaella
+
+I'm Raffaella from Italy, and I'm a new Django contributor. I usually write the 'Updates to Django' in [Django News](https://django-news.com/), and I was also a coach for Django Girls. Recently, I was honored to become a member of the Django Software Foundation (DSF).
+
+In my spare time, I enjoy watching TV series to improve my English 🎥. I also consider myself a fiber artist. I’m particularly proud of my crochet hats for cats, and luckily, my cats are happy to wear them. I've got a special hat for every occasion. 🧶
