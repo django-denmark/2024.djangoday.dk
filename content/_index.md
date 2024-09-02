@@ -9,7 +9,7 @@ draft: false
 # Latest updates
 
 * [Venue: Union, Copenhagen](/venue/) <span class="badge badge-pill badge-success">BOOKED</span>
-* [Call for Participation](/cfp/) <span class="badge badge-pill badge-success">OPEN</span>
+* [Call for Participation](/cfp/) <span class="badge badge-pill badge-info">CLOSED</span>
 * [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span>
 * Looking for Django Day 2023 videos? [Find them here](https://2023.djangoday.dk/#program) ⏯️
 
@@ -20,6 +20,10 @@ either to be experienced **online -or- at our venue**.
 Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
 
+
+##### 📣️ 2024-09-01: Program coming up...
+
+The call for proposals has closed and we are announcing the final program shortly. At the same time, the "early bird" discount has also ended.
 
 ##### 📣️ 2024-06-10: Ticket sales open
 
@@ -56,7 +60,25 @@ and be drawn during the day.
 
 
 <ul class="sponsors">
+<li><a href="https://typecode.com/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_typecode.png"
+command="Fit"
+options="300x80"
+alt="Type/Code logo"
+class="img-sponsor"
+>}}
+</a></li>
 
+<li><a href="https://ticketbutler.io/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_ticketbutler.png"
+command="Fit"
+options="300x80"
+alt="Ticketbutler logo"
+class="img-sponsor"
+>}}
+</a></li>
 
 </ul>
 
