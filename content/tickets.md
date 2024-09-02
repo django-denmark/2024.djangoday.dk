@@ -8,7 +8,7 @@ draft: false
 ## Ticket Deadlines 🔥
 
 * Streaming tickets: No deadline
-* Early bird: September 1 23:59 UTC+2 <span class="badge badge-pill badge-success">OPEN</span>
+* Early bird: September 1 23:59 UTC+2 <span class="badge badge-pill badge-info">CLOSED</span>
 * Venue tickets: September 27 23:59 UTC+2 <span class="badge badge-pill badge-success">OPEN</span>
 <!--* Late Bird: October 1 23:59 UTC+2 <span class="badge badge-pill badge-success">CLOSED</span>-->
 
@@ -44,9 +44,9 @@ if you want to be a member of Django Denmark, our association behind Django Day.
 All of this is with no additional costs.
 
 
-<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024" target="_blank">Early bird ticket - DKK 550</a>
+<a class="btn btn-lg btn-primary disabled" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024" target="_blank">Early bird ticket - DKK 550</a>
 
-<a class="btn btn-lg btn-primary disabled" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024" target="_blank">Individual ticket - DKK 750</a>
+<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024" target="_blank">Individual ticket - DKK 750</a>
 
 
 ## Corporate Supporters
