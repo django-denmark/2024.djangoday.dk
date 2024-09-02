@@ -56,7 +56,25 @@ and be drawn during the day.
 
 
 <ul class="sponsors">
+<li><a href="https://typecode.com/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_typecode.png"
+command="Fit"
+options="300x80"
+alt="Type/Code logo"
+class="img-sponsor"
+>}}
+</a></li>
 
+<li><a href="https://ticketbutler.io/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_ticketbutler.png"
+command="Fit"
+options="300x80"
+alt="Ticketbutler logo"
+class="img-sponsor"
+>}}
+</a></li>
 
 </ul>
 
