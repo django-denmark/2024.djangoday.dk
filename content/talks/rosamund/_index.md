@@ -7,7 +7,7 @@ img_name: "rosamund.jpeg"
 layout: "single"
 remote: false
 stage: true
-linkedin_url: "https://www.linkedin.com/in/krystof-beuermann-623558184/"
+#linkedin_url: "https://www.linkedin.com/in/krystof-beuermann-623558184/"
 description: "Mapping out Berlin's female history with Django and Leaflet.js"
 published: true
 type: "talk"
