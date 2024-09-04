@@ -7,7 +7,7 @@ img_name: "rosamund.jpeg"
 layout: "single"
 remote: false
 stage: true
-linkedin_url: "https://linkedin.com/li/rosamundm"
+linkedin_url: "https://linkedin.com/in/rosamundm/"
 description: "Mapping out Berlin's female history with Django and Leaflet.js"
 published: true
 type: "talk"
@@ -24,4 +24,4 @@ Not only will I go into the ways this project combines my humanities background 
 
 ## About Rosamund
 
-Rosamund Mather is a Berlin-based developer from the UK who started off as a translator and copywriter. She got her first exposure to programming through Django Girls, making a gradual career switch, and is currently working with Django and React. You can connect with her on [LinkedIn](https://linkedin.com/li/rosamundm) and check out her [blog](https://rosamund.dev).
+Rosamund Mather is a Berlin-based developer from the UK who started off as a translator and copywriter. She got her first exposure to programming through Django Girls, making a gradual career switch, and is currently working with Django and React. You can connect with her on [LinkedIn](https://www.linkedin.com/in/rosamundm/) and check out her [blog](https://rosamund.dev).
