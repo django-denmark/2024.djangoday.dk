@@ -1,7 +1,7 @@
 ---
 title: "⚡ Lightning Talks ⚡"
 date: 2024-04-08T20:00:00+02:00
-talk_date: 2024-10-04T21:30:00+02:00
+talk_date: 2024-10-04T17:30:00+02:00
 talk_by: "Live from Venue and remote pre-recordings"
 img_name: "pony.png"
 layout: "single"

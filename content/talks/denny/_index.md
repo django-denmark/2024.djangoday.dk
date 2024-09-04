@@ -1,7 +1,7 @@
 ---
 title: "Django migrations, friend or foe? Optimize them for testing"
 date: 2024-08-12T10:45:00+02:00
-talk_date: 2024-10-04T10:21:00+02:00
+talk_date: 2024-10-04T11:30:00+02:00
 talk_by: "Denny Biasiolli"
 img_name: "denny.jpeg"
 layout: "single"

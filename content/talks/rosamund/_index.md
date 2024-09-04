@@ -1,7 +1,7 @@
 ---
 title: "Mapping out Berlin's female history with Django and Leaflet.js"
 date: 2024-08-12T10:45:00+02:00
-talk_date: 2024-10-04T10:20:00+02:00
+talk_date: 2024-10-04T13:00:00+02:00
 talk_by: "Rosamund Mather"
 img_name: "rosamund.jpeg"
 layout: "single"

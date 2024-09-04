@@ -1,7 +1,7 @@
 ---
 title: "Hypermedia driven maps"
 date: 2024-08-12T10:45:00+02:00
-talk_date: 2024-10-04T10:21:00+02:00
+talk_date: 2024-10-04T13:35:00+02:00
 talk_by: "Andrea Guerra"
 img_name: "andrea.jpeg"
 layout: "single"
