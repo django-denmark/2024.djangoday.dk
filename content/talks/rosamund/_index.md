@@ -7,7 +7,7 @@ img_name: "rosamund.jpeg"
 layout: "single"
 remote: false
 stage: true
-#linkedin_url: "https://www.linkedin.com/in/krystof-beuermann-623558184/"
+linkedin_url: "https://linkedin.com/li/rosamundm"
 description: "Mapping out Berlin's female history with Django and Leaflet.js"
 published: true
 type: "talk"
@@ -22,3 +22,6 @@ I'll be introducing my side project [Named After Women](https://named-after-wome
 
 Not only will I go into the ways this project combines my humanities background with the tech career I started a few years ago, but I will also demonstrate how I'm using Django to build this API and store basic GIS data, consumed by the Leaflet.js library in order to create an interactive map within a React app.
 
+## About Rosamund
+
+Rosamund Mather is a Berlin-based developer from the UK who started off as a translator and copywriter. She got her first exposure to programming through Django Girls, making a gradual career switch, and is currently working with Django and React. You can connect with her on [LinkedIn](https://linkedin.com/li/rosamundm) and check out her [blog](https://rosamund.dev).
