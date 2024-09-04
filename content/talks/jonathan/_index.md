@@ -1,7 +1,7 @@
 ---
 title: "Building a Data Harmonization Engine on top of Django - The Good, the Bad, and the Ugly"
 date: 2024-08-12T10:45:00+02:00
-talk_date: 2024-10-04T10:21:00+02:00
+talk_date: 2024-10-04T14:55:00+02:00
 talk_by: "Jonathan Ströbele"
 img_name: "jonathan.jpeg"
 layout: "single"

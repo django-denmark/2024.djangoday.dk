@@ -1,7 +1,7 @@
 ---
 title: "Versioning data in Django"
 date: 2024-08-12T10:45:00+02:00
-talk_date: 2024-10-04T10:21:00+02:00
+talk_date: 2024-10-04T09:45:00+02:00
 talk_by: "Joseph Victor Zammit"
 img_name: "joseph.jpeg"
 layout: "single"

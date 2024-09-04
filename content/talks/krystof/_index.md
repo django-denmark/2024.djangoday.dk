@@ -1,7 +1,7 @@
 ---
 title: "Modern web apps with (almost) no JavaScript: Enhancing user experience with HTMX in Django"
 date: 2024-08-12T10:45:00+02:00
-talk_date: 2024-10-04T10:21:00+02:00
+talk_date: 2024-10-04T14:20:00+02:00
 talk_by: "Krystof Beuermann"
 img_name: "krystof.jpeg"
 layout: "single"
