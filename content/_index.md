@@ -20,6 +20,9 @@ either to be experienced **online -or- at our venue**.
 Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
 
+##### 📣️ 2024-09-01: Program is ready
+
+
 
 ##### 📣️ 2024-09-01: Program coming up...
 
@@ -39,8 +42,6 @@ and we would **love your help**. You can for instance [submit a talk](/cfp/), [h
 
 
 # Program
-
-*The [call for participation](/cfp/) is open!*
 
 Django Day is a full day of talks, all connected to modern issues faced
 by Django developers of all experiences. It's a single-track
