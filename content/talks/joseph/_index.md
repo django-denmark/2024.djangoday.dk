@@ -1,5 +1,5 @@
 ---
-title: "Versioning data in Django"
+title: "Marrying Django and FastAPI 💍"
 date: 2024-08-12T10:45:00+02:00
 talk_date: 2024-10-04T09:45:00+02:00
 talk_by: "Joseph Victor Zammit"
@@ -12,7 +12,7 @@ fediverse: "@jvzammit@fosstodon.org"
 fediverse_url: "https://fosstodon.org/@jvzammit"
 twitter: "jvzammit"
 
-description: "Versioning data in Django"
+description: "Marrying Django and FastAPI 💍"
 published: true
 type: "talk"
 
@@ -21,19 +21,15 @@ type: "talk"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 ---
-What does "versioning" mean? It means tracking the evolution of a specific record in our database. This talk is about ways to version data in a Django project. The aim is to create a balance between two, sometimes opposing goals. First goal is to have an easy-to-understand data model for product and engineering. The second is for our code to make efficient use of the database.
+Is marrying Django and FastAPI something you should do? No.
 
-## Example scenario:
+But there are specific cases where it makes sense to do so. Care has to be taken for them to work properly together. Some guardrails need to be put in place.
 
-* Your company sells widgets. We track orders in the `Order` model and customers in the `Customer` model.
-* Management uses a report to show locations for orders delivered for customers.
-* A customer with past orders wants to update their address. How to handle this without breaking the report just described?
-* What performance considerations come into play?
-* What does the Django ecosystem offer? Any alternatives? And why?
+The suggested approach is by no means "the best" approach. However it's an approach that is embedded in a team's CI/CD flow, and as a result deployed to a production environment.
 
 ## About Joseph
 
-I’m Joseph. Or “Joe” in short. I am in software engineering since the ‘00s. Working professionally since ‘06.
+I’m Joseph. I am in software engineering since the ‘00s. Working professionally since ‘06.
 
 Most of the time my roles were “backend”. Where working with data and relational databases is a key part of backend.
 
