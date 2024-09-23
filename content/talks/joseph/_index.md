@@ -23,7 +23,7 @@ type: "talk"
 ---
 Is marrying Django and FastAPI something you should do? No.
 
-But there are specific cases where it makes sense to do so. Care has to be taken for them to work properly together. Some guardrails need to be put in place.
+But there are specific cases where it makes sense to do so. Care has to be taken for them to work nicely together. Some guardrails need to be put in place.
 
 The suggested approach is by no means "the best" approach. However it's an approach that is embedded in a team's CI/CD flow, and as a result deployed to a production environment.
 
