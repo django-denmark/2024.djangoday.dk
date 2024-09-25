@@ -41,3 +41,7 @@ From ‘08 onwards I worked a lot with Python. And the framework I worked with m
 
 Website: [https://www.untangled.dev/](https://www.untangled.dev/)
 
+## Talk references
+
+* Full references page: [https://www.untangled.dev/2024/10/04/talk-djangoday-cph-24/](https://www.untangled.dev/2024/10/04/talk-djangoday-cph-24/)
+* Github repo with code samples: [https://github.com/jvzammit/cph24](https://github.com/jvzammit/cph24)
