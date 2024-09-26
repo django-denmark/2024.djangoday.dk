@@ -21,11 +21,15 @@ type: "talk"
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"
 ---
-Is marrying Django and FastAPI something you should do? No.
+Is marrying Django and FastAPI something you should do? Not unless you have a case for it. And there are specific cases. 
 
-But there are specific cases where it makes sense to do so. Care has to be taken for them to work nicely together. Some guardrails need to be put in place.
+This talk starts by going through such case by describing the problem and approaches considered. And what led to this marriage.
 
-The suggested approach is by no means "the best" approach. However it's an approach that is embedded in a team's CI/CD flow, and as a result deployed to a production environment.
+As in any marriage, good communication and some compromise are required. I.e. care has to be taken for Django and FastAPI to work nicely together.
+
+So we'll go into what we ended up putting in place. What works well and what could work better.
+
+The suggested approach is by no means "the best" approach. However it's an approach that is embedded in a team's CI/CD flow. And as a result deployed to a production environment.
 
 ## About Joseph
 
@@ -37,3 +41,7 @@ From ‘08 onwards I worked a lot with Python. And the framework I worked with m
 
 Website: [https://www.untangled.dev/](https://www.untangled.dev/)
 
+## Talk references
+
+* Full references page: [https://www.untangled.dev/2024/10/04/talk-djangoday-cph-24/](https://www.untangled.dev/2024/10/04/talk-djangoday-cph-24/)
+* Github repo with code samples: [https://github.com/jvzammit/cph24](https://github.com/jvzammit/cph24)
