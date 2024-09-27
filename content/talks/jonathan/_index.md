@@ -11,7 +11,7 @@ fediverse: "@stroebjo@norden.social"
 fediverse_url: "https://norden.social/@stroebjo"
 linkedin_url: "https://linkedin.com/in/jonathan-stroebele"
 description: "Building a Data Harmonization Engine on top of Django - The Good, the Bad, and the Ugly"
-published: true
+draft: false
 type: "talk"
 
 # youtube_id: "lF1eCH7p5qw"

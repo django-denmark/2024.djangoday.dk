@@ -9,7 +9,7 @@ remote: false
 stage: false
 twitter: ""
 description: "We'll be ending the evening with plenty of time to hang out, dance, chill and have fun!"
-published: true
+draft: false
 type: "talk"
 ---
 

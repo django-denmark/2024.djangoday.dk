@@ -10,7 +10,7 @@ draft: false
 
 * [Venue: Union, Copenhagen](/venue/) <span class="badge badge-pill badge-success">BOOKED</span>
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-info">CLOSED</span>
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span>
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> **CLOSING SEP 30 16:00**
 * Looking for Django Day 2023 videos? [Find them here](https://2023.djangoday.dk/#program) ⏯️
 
 Djangonauts from in and around Denmark are meeting up for the fourth edition of
@@ -19,6 +19,11 @@ either to be experienced **online -or- at our venue**.
 
 Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
+
+##### 📣️ 2024-09-27: Remember to party!
+
+Don't forget that after the event, we encourage everyone to find some dinner in the area and come back from 19:30. We'll have a bar open full of good beer and drinks.
+If you cannot attend the event but want to join the party, please email info@django-denmark.org
 
 ##### 📣️ 2024-09-04: Program is ready
 
@@ -80,6 +85,16 @@ img="logo_ticketbutler.png"
 command="Fit"
 options="300x80"
 alt="Ticketbutler logo"
+class="img-sponsor"
+>}}
+</a></li>
+
+<li><a href="https:///" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_orsted.png"
+command="Fit"
+options="300x80"
+alt="Ørsted logo"
 class="img-sponsor"
 >}}
 </a></li>

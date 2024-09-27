@@ -9,7 +9,7 @@ remote: false
 stage: true
 linkedin_url: "https://www.linkedin.com/in/krystof-beuermann-623558184/"
 description: "Modern web apps with (almost) no JavaScript: Enhancing user experience with HTMX in Django"
-published: true
+draft: false
 type: "talk"
 
 # youtube_id: "lF1eCH7p5qw"

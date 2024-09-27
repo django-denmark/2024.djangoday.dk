@@ -9,7 +9,7 @@ remote: false
 stage: false
 twitter: ""
 description: "This is a good time to arrive - register and have time to chat and grab breakfast"
-published: true
+draft: false
 type: "talk"
 
 ---

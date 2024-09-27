@@ -9,7 +9,7 @@ remote: false
 stage: true
 linkedin_url: "https://linkedin.com/in/rosamundm/"
 description: "Mapping out Berlin's female history with Django and Leaflet.js"
-published: true
+draft: false
 type: "talk"
 
 # youtube_id: "lF1eCH7p5qw"
