@@ -11,7 +11,7 @@ fediverse: "@michjnich@mastodon.social"
 fediverse_url: "https://mastodon.social/deck/@michjnich"
 linkedin_url: https://www.linkedin.com/in/michjnich/
 description: "A walkthrough of how a real-world monolith replacement was approached, with the goal to build a replacement set of distributed services using Python and Django. "
-published: true
+draft: false
 type: "talk"
 
 # youtube_id: "lF1eCH7p5qw"

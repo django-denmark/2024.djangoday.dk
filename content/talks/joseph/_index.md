@@ -13,7 +13,7 @@ fediverse_url: "https://fosstodon.org/@jvzammit"
 twitter: "jvzammit"
 
 description: "Marrying Django and FastAPI 💍"
-published: true
+draft: false
 type: "talk"
 
 # youtube_id: "lF1eCH7p5qw"

@@ -9,7 +9,7 @@ remote: false
 stage: false
 description: "Streaming/remote 5 minute lightning talks at Django Day Copenhagen"
 type: "talk"
-published: true
+draft: false
 
 # youtube_id: "acQdzpt68Fk"
 ---

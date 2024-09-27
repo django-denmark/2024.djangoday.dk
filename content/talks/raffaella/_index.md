@@ -10,7 +10,7 @@ stage: true
 fediverse: "@raffaellasuardini@mastodon.social"
 fediverse_url: "https://mastodon.social/@raffaellasuardini"
 description: "From junior developer to Django contributor: My open source journey"
-published: true
+draft: false
 type: "talk"
 
 # youtube_id: "lF1eCH7p5qw"

@@ -9,7 +9,7 @@ remote: false
 stage: false
 twitter: ""
 description: "Everyone take a seat! We're beginning!"
-published: true
+draft: false
 type: "talk"
 
 ---

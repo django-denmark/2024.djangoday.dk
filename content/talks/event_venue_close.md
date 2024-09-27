@@ -9,7 +9,7 @@ remote: false
 stage: false
 twitter: ""
 description: ""
-published: true
+draft: false
 type: "talk"
 
 ---
