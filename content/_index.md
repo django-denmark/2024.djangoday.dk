@@ -89,6 +89,16 @@ class="img-sponsor"
 >}}
 </a></li>
 
+<li><a href="https:///" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_orsted.png"
+command="Fit"
+options="300x80"
+alt="Ørsted logo"
+class="img-sponsor"
+>}}
+</a></li>
+
 </ul>
 
 
