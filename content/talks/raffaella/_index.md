@@ -7,6 +7,7 @@ img_name: "raffaella.jpeg"
 layout: "single"
 remote: false
 stage: true
+linkedin_url: "https://www.linkedin.com/in/raffaella-s/"
 fediverse: "@raffaellasuardini@mastodon.social"
 fediverse_url: "https://mastodon.social/@raffaellasuardini"
 description: "From junior developer to Django contributor: My open source journey"
