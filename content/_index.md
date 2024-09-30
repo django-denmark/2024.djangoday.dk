@@ -10,7 +10,7 @@ draft: false
 
 * [Venue: Union, Copenhagen](/venue/) <span class="badge badge-pill badge-success">BOOKED</span>
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-info">CLOSED</span>
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">OPEN</span> **CLOSING SEP 30 16:00**
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">LATE BIRD</span>
 * Looking for Django Day 2023 videos? [Find them here](https://2023.djangoday.dk/#program) ⏯️
 
 Djangonauts from in and around Denmark are meeting up for the fourth edition of
@@ -20,7 +20,11 @@ either to be experienced **online -or- at our venue**.
 Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
 
-##### 📣️ 2024-09-27: Remember to party!
+##### 🦉 2024-09-30: Tickets still for sale: Late bird and streaming (free)
+
+You can still get tickets for streaming and "late bird" tickets (early bird gets the worm <=> late bird no worm => no food).
+
+##### 🪩 2024-09-27: Remember to party!
 
 Don't forget that after the event, we encourage everyone to find some dinner in the area and come back from 19:30. We'll have a bar open full of good beer and drinks.
 If you cannot attend the event but want to join the party, please email info@django-denmark.org
