@@ -9,7 +9,7 @@ draft: false
 
 * Streaming tickets: No deadline
 * Early bird: September 1 23:59 UTC+2 <span class="badge badge-pill badge-info">CLOSED</span>
-* Individual and corporate tickets: September 30 16:00 UTC+2 <span class="badge badge-pill badge-success">SOON</span>
+* Individual and corporate tickets: September 30 16:00 UTC+2 <span class="badge badge-pill badge-info">CLOSED</span>
 * Late Bird: Oct 4 8:00 UTC+2 <span class="badge badge-pill badge-success">OPEN</span>
 
 Notice that the event can sell out due to the size of the venue.
@@ -28,11 +28,11 @@ Become a Corporate Supporter of Django Denmark:
 
 After ordering a Corporate Supporter package, you will be sent a manual email with further instructions and access to order tickets (venue or remote). Please sign up via below buttons, and if you have any questions reach out on info@django-denmark.org. Thanks!
 
-<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024-corporate-support" target="_blank">Corporate Supporter w/ 1 ticket - DKK 1500</a>
+<a class="btn btn-lg btn-primary disabled" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024-corporate-support" target="_blank">Corporate Supporter w/ 1 ticket - DKK 1500</a>
 
-<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024-corporate-support" target="_blank">Corporate Supporter w/ 2 tickets - DKK 2500</a>
+<a class="btn btn-lg btn-primary disabled" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024-corporate-support" target="_blank">Corporate Supporter w/ 2 tickets - DKK 2500</a>
 
-<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024-corporate-support" target="_blank">Corporate Supporter w/ 5 tickets - DKK 5000*</a>
+<a class="btn btn-lg btn-primary disabled" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024-corporate-support" target="_blank">Corporate Supporter w/ 5 tickets - DKK 5000*</a>
 
 ## Individual tickets
 
@@ -58,8 +58,9 @@ All of this is with no additional costs.
 
 <a class="btn btn-lg btn-primary disabled" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024" target="_blank">Early bird ticket - DKK 550</a>
 
-<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024" target="_blank">Individual ticket - DKK 750</a>
+<a class="btn btn-lg btn-primary disabled" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024" target="_blank">Individual ticket - DKK 750</a>
 
+<a class="btn btn-lg btn-primary" href="https://djangodenmark.ticketbutler.io/e/django-day-copenhagen-2024" target="_blank">Late bird ticket - DKK 750</a>
 
 ## Student / concession tickets
 
