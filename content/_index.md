@@ -69,6 +69,17 @@ and be drawn during the day.
 
 
 <ul class="sponsors">
+
+<li><a href="https://ofir.dk/" target="_blank" class="sponsor">
+{{< imgProc
+img="logo_ofir.png"
+command="Fit"
+options="300x80"
+alt="Ofir"
+class="img-sponsor"
+>}}
+</a></li>
+
 <li><a href="https://typecode.com/" target="_blank" class="sponsor">
 {{< imgProc
 img="logo_typecode.png"
