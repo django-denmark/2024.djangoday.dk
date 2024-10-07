@@ -7,12 +7,6 @@ draft: false
 ---
 
 
-# Live stream
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/-msvvauZVvo?si=dtuqB6dDJW5xsC45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Streaming live from 0930-18:00 UTC+2. Can't see an iframe above? [Open on Youtube](https://www.youtube.com/watch?v=-msvvauZVvo).
-
 # Latest updates
 
 * [Venue: Union, Copenhagen](/venue/) <span class="badge badge-pill badge-success">BOOKED</span>
@@ -26,6 +20,12 @@ either to be experienced **online -or- at our venue**.
 
 Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
+
+##### 📸 2024-10-07: Thanks for an amazing day!
+
+We had a great time, and we want to say thanks to all speakers, sponsors, participants, the venue and our co-organizers.
+
+**Videos will be uploaded this week**.
 
 ##### 🦉 2024-09-30: Tickets still for sale: Late bird and streaming (free)
 
