@@ -14,7 +14,7 @@ description: "A walkthrough of how a real-world monolith replacement was approac
 draft: false
 type: "talk"
 
-# youtube_id: "lF1eCH7p5qw"
+youtube_id: "xviVFmKKiiU"
 
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"

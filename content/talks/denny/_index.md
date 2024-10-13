@@ -14,7 +14,7 @@ description: "Django migrations, friend or foe? Optimize them for testing"
 draft: false
 type: "talk"
 
-# youtube_id: "lF1eCH7p5qw"
+# youtube_id: "HuY48N8d8kw"
 
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"

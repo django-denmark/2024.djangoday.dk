@@ -12,6 +12,8 @@ fediverse: "@andywar65@opalstack.social"
 fediverse_url: "https://opalstack.social/@andywar65"
 description: "Hypermedia driven maps"
 type: "talk"
+
+youtube_id: "wT8iaWxt1L8"
 ---
 
 Using Django, Leaflet.js and HTMX to seamlessly manage a CRUD geolocation app. In Hypermedia Driven Applications, content and user interface share the same data structure: HTML. Some JavaScript "islands of interactivity" can coexist with the HDA. In our case the "island" is a Leaflet Map, initialized just once. HTML fragments sent by server do all the work, transporting data, links, state, triggering events, everything without reloading the page.
