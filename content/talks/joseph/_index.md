@@ -16,7 +16,7 @@ description: "Marrying Django and FastAPI 💍"
 draft: false
 type: "talk"
 
-# youtube_id: "lF1eCH7p5qw"
+youtube_id: "MyCMyBv-mCo"
 
 # slides: "https://docs.google.com/presentation/d/1OTI--ZQLLR3N8ixl4OktEwbXfiau_0BNXicl_3j5uYc/edit?usp=sharing"
 # notes: "andrew.jpeg"

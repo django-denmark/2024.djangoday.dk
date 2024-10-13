@@ -9,9 +9,10 @@ draft: false
 
 # Latest updates
 
+* [Talk recordings](#program) <span class="badge badge-pill badge-success">UPLOADED</span>
 * [Venue: Union, Copenhagen](/venue/) <span class="badge badge-pill badge-success">BOOKED</span>
 * [Call for Participation](/cfp/) <span class="badge badge-pill badge-info">CLOSED</span>
-* [Ticket sales](/tickets/) <span class="badge badge-pill badge-success">LATE BIRD</span>
+* [Ticket sales](/tickets/) <span class="badge badge-pill badge-info">CLOSED</span>
 * Looking for Django Day 2023 videos? [Find them here](https://2023.djangoday.dk/#program) ⏯️
 
 Djangonauts from in and around Denmark are meeting up for the fourth edition of
@@ -21,10 +22,15 @@ either to be experienced **online -or- at our venue**.
 Come and meet your local and excellent community and share with them.
 [Tell us](/cfp/) about your idea and your contribution to make this a great day.
 
+##### 🍿 Talk videos uploaded!
+
+Click each talk in the [program](#program) to watch the videos.
+
 ##### 📸 2024-10-07: Thanks for an amazing day!
 
 We had a great time, and we want to say thanks to all speakers, sponsors, participants, the venue and our co-organizers.
 
+<!--
 **Videos will be uploaded this week**.
 
 ##### 🦉 2024-09-30: Tickets still for sale: Late bird and streaming (free)
@@ -40,7 +46,7 @@ If you cannot attend the event but want to join the party, please email info@dja
 
 Thanks to all the speakers that submitted talks, we now have a full-day program!
 
-<!--
+
 ##### 📣️ 2024-09-01: Program coming up...
 
 The call for proposals has closed and we are announcing the final program shortly. At the same time, the "early bird" discount has also ended.

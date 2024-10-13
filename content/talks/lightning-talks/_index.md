@@ -11,7 +11,7 @@ description: "Streaming/remote 5 minute lightning talks at Django Day Copenhagen
 type: "talk"
 draft: false
 
-# youtube_id: "acQdzpt68Fk"
+youtube_id: "0Z2chlgMsuE"
 ---
 
 ⚡⚡⚡ Announcing streaming/remote 5 minute lightning talks at Django Day Copenhagen ⚡⚡⚡
